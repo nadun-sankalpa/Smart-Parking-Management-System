@@ -1,4 +1,4 @@
-# 🚕🚓🚗 Smart Parking Management System (SPMS)
+# 🚕🚓🚗 NS Smart Parking Management System 
 
 ![EurekaDashboard](https://github.com/nadun-sankalpa/Smart-Parking-Management-System/blob/3b964de499d528cfd33436d99f16dcbf3711416b/doc/eureka-dashboard.png)
 
