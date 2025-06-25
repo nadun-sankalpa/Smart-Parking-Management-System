@@ -93,7 +93,7 @@ Open Postman → `Import` → Upload the collection → Start testing!
 
 Track live service registration with **Spring Cloud Eureka**:
 
-![EurekaDashboard](https://github.com/user-attachments/assets/58579519-1c62-4e45-8021-9daf9d9bf587)
+![EurekaDashboard](https://github.com/nadun-sankalpa/Smart-Parking-Management-System/blob/3b964de499d528cfd33436d99f16dcbf3711416b/doc/eureka-dashboard.png)
 
 ---
 
